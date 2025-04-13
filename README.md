@@ -13,6 +13,10 @@
 
 Small server wrapper around [eufy-security-client](https://www.npmjs.com/package/eufy-security-client) library to access it via a WebSocket.
 
+Join us on Discord:
+
+<a target="_blank" href="https://discord.gg/5wjQ2asb64"><img src="https://dcbadge.limes.pink/api/server/5wjQ2asb64" alt="" /></a>
+
 The development of this server was inspired by the following project:
 
 * [zwave-js-server](https://github.com/zwave-js/zwave-js-server)
