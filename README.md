@@ -33,3 +33,7 @@ If you appreciate my work and progress and want to support me, you can do it her
 ## Get started
 
 To try it out or for more information, such as API documentation, Docker image, etc., please see [here](https://bropat.github.io/eufy-security-ws/).
+
+## Deployment
+
+Instructions aimed at maintainers for deploying a new version: [Deployment](docs/deployment.md)
